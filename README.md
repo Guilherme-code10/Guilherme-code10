@@ -1,16 +1,22 @@
-## Hi there 👋
+Olá, eu sou Guilherme Augusto Morais 👋
 
-<!--
-**Guilherme-code10/Guilherme-code10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Bacharelado em Administração e de Superior de Tecnologia em Análise e Desenvolvimento de Sistemas, unindo conhecimentos em gestão e tecnologia para criar soluções completas e estratégicas.
 
-Here are some ideas to get you started:
+💼 Experiência Profissional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atuante como assistente administrativo na área de TI, com foco em suporte técnico (Help Desk).
+
+Atualmente, gerencio uma oficina, conciliando rotinas administrativas com ações de marketing, visando fortalecimento da marca e crescimento dos resultados.
+
+🚀 Habilidades e Competências
+
+Liderança de equipes e gestão de pessoas
+
+Análise e tomada de decisão
+
+Metodologias ágeis
+
+Comunicação empresarial
+
+🎯 Objetivo
+Busco constantemente o aprimoramento profissional, com foco em gerar impacto positivo através da integração entre negócios e inovação tecnológica.
